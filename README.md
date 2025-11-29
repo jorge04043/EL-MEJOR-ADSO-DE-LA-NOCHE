@@ -11,6 +11,8 @@ Cada estudiante deberá modificar este archivo **README.md**, colocando un emoji
 
 0. 🚀 **Belman Marin Franco**
 
+11. 👺 **Juan Sebastian Diaz** 
+
 
 
 
