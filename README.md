@@ -13,6 +13,7 @@ Cada estudiante deberá modificar este archivo **README.md**, colocando un emoji
 1. 😭 **Dayvid Alexaner Ruiz Hernandez**
 2. 🐨**Nikol Vannesa Castañeda Carrillo**
 3. ✌️**Johan Gonzalo Garcia Walteros**
+4. 😶‍🌫️**Roxana Ruiz Riocampo**
 5. 🎶 ** maria camila ortiz gaitan **
 6.😂 **YIra Dirley Gomez Hurtado**
 7.❤️**Leydi Carolina Ramírez Rodríguez**
@@ -24,7 +25,6 @@ Cada estudiante deberá modificar este archivo **README.md**, colocando un emoji
 14. 🦋 **Herly Johana Villamizar**
 15.  **kevin santiago mosquera perea**
 16.🎶 ** maria camila ortiz gaitan **
-
 
 
 
