@@ -13,15 +13,13 @@ Cada estudiante deberá modificar este archivo **README.md**, colocando un emoji
 1. 😭 **Dayvid Alexaner Ruiz Hernandez**
 2. 👌**Vannesa Castañeda**
 3. ✌️**Johan Gonzalo Garcia Walteros**
+6.😂 **YIra Dirley Gomez Hurtado**
 7.❤️**Leydi Carolina Ramírez Rodríguez**
 8. 🤣 **Juan Cuervo**
 **9. 😈 Walter Esteban Castro**
 10. 😀**Omar Daniel Rosario Ramos**
 11. 👺 **Juan Sebastian Diaz** 
 12. 🦁 **Josue Esteban Castañeda Palomo**
-
-
-
 
 
 
