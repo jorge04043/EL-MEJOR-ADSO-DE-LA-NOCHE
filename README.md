@@ -14,12 +14,9 @@ Cada estudiante deberá modificar este archivo **README.md**, colocando un emoji
 3. ✌️**Johan Gonzalo Garcia Walteros**
 8. 🤣 **Juan Cuervo**
 **9. 😈 Walter Esteban Castro**
-
-
-
-
-
+10. 😀**Omar Daniel Rosario Ramos**
 11. 👺 **Juan Sebastian Diaz** 
+
 
 
 
