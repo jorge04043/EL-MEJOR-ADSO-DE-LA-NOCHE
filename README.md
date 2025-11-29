@@ -15,16 +15,16 @@ Cada estudiante deberá modificar este archivo **README.md**, colocando un emoji
 3. ✌️**Johan Gonzalo Garcia Walteros**
 4. 😶‍🌫️**Roxana Ruiz Riocampo**
 5. 🎶 **maria camila ortiz gaitan**
-6.😂 **YIra Dirley Gomez Hurtado**
-7.❤️**Leydi Carolina Ramírez Rodríguez**
+6. 😂 **YIra Dirley Gomez Hurtado**
+7. ❤️**Leydi Carolina Ramírez Rodríguez**
 8. 🤣 **Juan Cuervo**
-**9. 😈 Walter Esteban Castro**
+9. **😈 Walter Esteban Castro**
 10. 😀**Omar Daniel Rosario Ramos**
 11. 👺 **Juan Sebastian Diaz** 
 12. 🦁 **Josue Esteban Castañeda Palomo**
 14. 🦋 **Herly Johana Villamizar**
 15.  **kevin santiago mosquera perea**
-16.🎶 ** maria camila ortiz gaitan **
+
 
 
 
