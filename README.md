@@ -26,7 +26,10 @@ Cada estudiante deberá modificar este archivo **README.md**, colocando un emoji
 15. :D **kevin santiago mosquera perea**
 16. 🙌 **Kevin Moreno Medalles**
 17. 🚬**Angel Joel Garzon Castrillo**
-18. Reservado para el mejor aprendiz
+18
+19. 😒**jorge leonardo castillo fajardo**
+20. Reservado para el mejor aprendiz
+    
 
 
 
